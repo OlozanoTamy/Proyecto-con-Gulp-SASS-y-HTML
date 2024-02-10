@@ -1,0 +1,15 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "  "
+  },
+  "keywords": [
+    "SASS",
+    "GULP"
+  ],
+  "author": "Oscar Lozano",
+  "license": "ISC"
+}
